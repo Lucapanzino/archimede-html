@@ -997,7 +997,8 @@ fieldset[disabled] .checkbox, fieldset[disabled] .checkbox input[type=checkbox],
   .left-menu .left-menu-icon {
     fill: #9A9FBF;
     transition: all .3s ease;
-    margin-right: 25px;}
+    margin-right: 25px;
+    font-size: 1.5em;}
   .left-menu .olymp-weather-icon {
     width: 26px; }
   .left-menu .olymp-happy-faces-icon {
